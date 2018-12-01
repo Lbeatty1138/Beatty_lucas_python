@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/*CSS Doc*/
+
+.hidden
+{
+	display: none;
+}
+
+.contentTop
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+#mainImage
+{
+	background-color: fff;
+	width: 611px;
+	height: 301px;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	margin-left: 11px;
+
+}
+
+#mainImageDesc
+{
+	
+	background-color: fff;
+	width: 301px;
+	height: 301px;
+	margin-top: 0px;
+	margin-right: 11px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+}
+
+.pieChart
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+#pieGraph
+{
+	background-color: fff;
+	width: 611px;
+	height: 301px;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	margin-left: 11px;
+
+}
+
+#pieInfo
+{
+	
+	background-color: fff;
+	width: 301px;
+	height: 301px;
+	margin-top: 0px;
+	margin-right: 11px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+}
+
+.lineChart
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+#lineGraph
+{
+	background-color: fff;
+	width: 611px;
+	height: 301px;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	margin-left: 11px;
+
+}
+
+#lineInfo
+{
+	
+	background-color: fff;
+	width: 301px;
+	height: 301px;
+	margin-top: 0px;
+	margin-right: 11px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+}
